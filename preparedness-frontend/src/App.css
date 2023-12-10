@@ -1,0 +1,47 @@
+
+.background-image {
+    background-image: url("./assets/background-image.jpeg"); /* Adjust the path accordingly */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the height to cover the full viewport height */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 17%
+}
+
+label {
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    font-size: 35px;
+  }
+
+.input {
+    width: 50%;
+    margin: auto;
+    font-size: inherit;
+}
+
+.button-container {
+    text-align: center;
+    padding-top: 6px;
+    
+  }
+  
+.button-container button {
+    margin: 20px 10px 0;
+    background-color: #0dcaf0;
+    width: 100px;
+    
+  }
+  
